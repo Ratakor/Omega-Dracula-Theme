@@ -1,4 +1,4 @@
-# Omega Theme Example
+# Omega Dracula Theme by Ratakor
 
 To use this theme, add `THEME_NAME` and `THEME_REPO` arguments to your `make` command:
 ```bash
