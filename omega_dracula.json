@@ -1,10 +1,10 @@
 {
     "name": "Omega Dracula",
-    "icons": "omega_dracula",
+    "icons": "omega_blue",
     "colors": {
         "PrimaryText": "F8F8F2",
         "SecondaryText": "c6c6c1",
-        "AccentText": "ff5555",
+        "AccentText": "ffb86c",
         "ApproximateSignText": "44475A",
         "ApproximateExpressionText": "44475A",
         "Background": {
@@ -22,7 +22,7 @@
         },
         "Grid": {
             "PrimaryLine": "44475a",
-            "SecondaryLine": "50fa7b"
+            "SecondaryLine": "6272a4"
         },
         "Battery": {
             "": "f8f8f2",
@@ -40,7 +40,7 @@
         },
         "Calculation": {
             "BackgroundOdd": "282a36",
-            "BackgroundEven": "20212b",
+            "BackgroundEven": "242530",
             "EmptyBox": "44475a",
             "EmptyBoxNeeded": "bd93f9",
             "TrigoAndComplexForeground": "ff79c6"
@@ -54,16 +54,16 @@
             "Keyword": "ff79c6",
             "Operator": "ff79c6",
             "String": "f1fa8c",
-            "GutterViewBackground": "44475a"
+            "GutterViewBackground": "242530"
         },
         "Probability": {
             "Curve": "bd93f9",
-            "CellBorder": "44475a",
+            "CellBorder": "50fa7b",
             "HistogramBar": "44475a"
         },
         "Statistics": {
             "Box": "bd93f9",
-            "BoxVerticalLine": "ff79c6",
+            "BoxVerticalLine": "50fa7b",
             "Selected": "bd93f9",
             "NotSelected": "f8f8f2"
         },
