@@ -3,7 +3,7 @@
     "icons": "omega_dark",
     "colors": {
         "PrimaryText": "F8F8F2",
-        "SecondaryText": "3a4462",
+        "SecondaryText": "F8F8F2",
         "AccentText": "ffb86c",
         "ApproximateSignText": "44475A",
         "ApproximateExpressionText": "44475A",
