@@ -1,6 +1,6 @@
 {
     "name": "Omega Dracula",
-    "icons": "omega_blue",
+    "icons": "omega_dark",
     "colors": {
         "PrimaryText": "F8F8F2",
         "SecondaryText": "c6c6c1",
@@ -40,7 +40,7 @@
         },
         "Calculation": {
             "BackgroundOdd": "282a36",
-            "BackgroundEven": "242530",
+            "BackgroundEven": "21222C",
             "EmptyBox": "44475a",
             "EmptyBoxNeeded": "bd93f9",
             "TrigoAndComplexForeground": "ff79c6"
@@ -54,12 +54,13 @@
             "Keyword": "ff79c6",
             "Operator": "ff79c6",
             "String": "f1fa8c",
-            "GutterViewBackground": "242530"
+            "GutterViewBackground": "21222C"
+            "AutocompleteColor": "8be9fd"
         },
         "Probability": {
             "Curve": "bd93f9",
-            "CellBorder": "50fa7b",
-            "HistogramBar": "44475a"
+            "CellBorder": "44475a",
+            "HistogramBar": "bd93f9"
         },
         "Statistics": {
             "Box": "bd93f9",
@@ -84,25 +85,25 @@
         "List": {
             "CellBackground": "282a36",
             "CellBackgroundSelected": "44475a",
-            "CellBorder": "50fa7b"
+            "CellBorder": "6272a4"
         },
         "Button": {
             "Background": "44475a",
             "BackgroundSelected": "6272a4",
             "BackgroundSelectedHighContrast": "8be9fd",
-            "Border": "50fa7b",
-            "RowBorder": "363848",
+            "Border": "44475a",
+            "RowBorder": "44475a",
             "BorderOut": "2a2c33",
             "Shadow": "181920",
             "Text": "f8f8f2"
         },
         "Tab": {
             "Background": "44475a",
-            "BackgroundSelected": "6272a4",
-            "BackgroundActive": "696b7a",
-            "BackgroundSelectedAndActive": "56596a",
-            "Text": "8be9fd",
-            "TextActive": "f8f8f2"
+            "BackgroundSelected": "56596a",
+            "BackgroundActive": "696b8a",
+            "BackgroundSelectedAndActive": "6272a4",
+            "Text": "f8f8f2",
+            "TextActive": "f1fa8c"
         },
         "SubTab": {
             "Background": "44475a",
@@ -110,14 +111,14 @@
             "Text": "f8f8f2"
         },
         "Banner": {
-            "FirstBackground": "20212b",
-            "FirstBorder": "20212b",
+            "FirstBackground": "44475a",
+            "FirstBorder": "6272a4",
             "FirstText": "f8f8f2",
-            "FirstVariantBackground": "20212b",
-            "FirstVariantBorder": "50fa7b",
+            "FirstVariantBackground": "6272a4",
+            "FirstVariantBorder": "44475a",
             "FirstVariantText": "f8f8f2",
-            "SecondBackground": "3d3f4a",
-            "SecondBorder": "50fa7b",
+            "SecondBackground": "ffb86c",
+            "SecondBorder": "ff5555",
             "SecondText": "f8f8f2"
         },
         "Home": {
@@ -143,7 +144,7 @@
             "ReactiveNonmetal": "00ee00",
             "NobleGas": "8baaff",
             "TableLines": "44475a",
-            "Highlight": "f8f8f2",
+            "Highlight": "282a36",
             "Background": "282a36"
         }
     }
