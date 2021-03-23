@@ -9,4 +9,5 @@ $ make THEME_NAME=omega_troll THEME_REPO=https://github.com/Ratakor/Omega-Themes
 ```
 
 omega_blue is omega_dracula but it's not finished yet 
+
 however you can use the dracula theme with the omega_dark icons
