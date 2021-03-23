@@ -8,9 +8,9 @@
         "ApproximateSignText": "44475A",
         "ApproximateExpressionText": "44475A",
         "Background": {
-            "Hard": "282A36",
-            "Apps": "44475a",
-            "AppsSecondary": "56596a"
+            "Hard": "4475a",
+            "Apps": "282a36",
+            "AppsSecondary": "282a36"
         },
         "Toolbar": {
             "": "bd93f9",
@@ -22,7 +22,7 @@
         },
         "Grid": {
             "PrimaryLine": "44475a",
-            "SecondaryLine": "6272a4"
+            "SecondaryLine": "bd93f9"
         },
         "Battery": {
             "": "f8f8f2",
@@ -54,7 +54,7 @@
             "Keyword": "ff79c6",
             "Operator": "ff79c6",
             "String": "f1fa8c",
-            "GutterViewBackground": "21222C"
+            "GutterViewBackground": "21222C",
             "AutocompleteColor": "8be9fd"
         },
         "Probability": {
@@ -108,7 +108,6 @@
         "SubTab": {
             "Background": "44475a",
             "BackgroundSelected": "6272a4",
-            "Text": "f8f8f2"
         },
         "Banner": {
             "FirstBackground": "44475a",
