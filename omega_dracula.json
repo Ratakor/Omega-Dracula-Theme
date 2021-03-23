@@ -3,12 +3,12 @@
     "icons": "omega_dark",
     "colors": {
         "PrimaryText": "F8F8F2",
-        "SecondaryText": "c6c6c1",
+        "SecondaryText": "3a4462",
         "AccentText": "ffb86c",
         "ApproximateSignText": "44475A",
         "ApproximateExpressionText": "44475A",
         "Background": {
-            "Hard": "4475a",
+            "Hard": "21222C",
             "Apps": "282a36",
             "AppsSecondary": "282a36"
         },
@@ -108,6 +108,7 @@
         "SubTab": {
             "Background": "44475a",
             "BackgroundSelected": "6272a4",
+            "Text": "f8f8f2"
         },
         "Banner": {
             "FirstBackground": "44475a",
