@@ -27,7 +27,7 @@
         "Battery": {
             "": "f8f8f2",
             "InCharge": "50fa7b",
-            "Low": "ff5555"
+            "Low": "50fa7b"
         },
         "ScrollBar": {
             "Foreground": "f8f8f2",
